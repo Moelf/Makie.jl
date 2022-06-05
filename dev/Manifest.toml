@@ -212,9 +212,9 @@ version = "0.8.6"
 
 [[Documenter]]
 deps = ["ANSIColoredPrinters", "Base64", "Dates", "DocStringExtensions", "IOCapture", "InteractiveUtils", "JSON", "LibGit2", "Logging", "Markdown", "REPL", "Test", "Unicode"]
-git-tree-sha1 = "3eb46f2549b52a79206469cdc03ae2518ded8d31"
+git-tree-sha1 = "f7809f532671564e48cd81627ddcfb1ba670f87d"
 uuid = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
-version = "0.27.18"
+version = "0.27.19"
 
 [[Downloads]]
 deps = ["ArgTools", "LibCURL", "NetworkOptions"]
@@ -833,9 +833,9 @@ version = "0.5.1"
 
 [[OffsetArrays]]
 deps = ["Adapt"]
-git-tree-sha1 = "e7fa2526bf068ad5cbfe9ba7e8a9bbd227b3211b"
+git-tree-sha1 = "d623bd9462972ca53c95bd3e6d94a002968faaa7"
 uuid = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
-version = "1.12.1"
+version = "1.12.2"
 
 [[Ogg_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg"]
